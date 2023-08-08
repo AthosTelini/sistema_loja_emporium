@@ -4,8 +4,8 @@
 
 # Sobre o projeto
 O software de cadastro e venda de produtos de uma  loja ficticia chamada EMPORIUM STORE , 
-desenvolvido por mim  aluno Athos Telini como parte do trabalho da disciplina de Linguagem de Programação 2
-utilizando a plataforma NetBeans 8.2 com a linguagem de programação Java  com  a ferramenta de banco de dados Heidi SQL para persistir em banco de dados
+desenvolvido por mim  aluno Athos Telini como parte do trabalho da disciplina de Linguagem de Programação 2. Para IDE
+utilizei o NetBeans 8.2 usando a linguagem de programação Java  persistindo em banco de dados  usando a ferramenta  Heidi SQL
 
 ## Back end
 - Java
